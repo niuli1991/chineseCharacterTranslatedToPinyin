@@ -1,1 +1,2 @@
-# chineseCharacterTranslatedToPinyin
+本demo实现将中文转换成对应的拼音，例如：你好啊   转换后  NiHaoA
+但是不能区分多音字。
